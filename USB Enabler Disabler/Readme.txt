@@ -1,1 +1,0 @@
-﻿Software to disable and enable USB ports to storage devices.
